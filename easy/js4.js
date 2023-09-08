@@ -20,7 +20,7 @@
 
 // Input: init = 0, calls = ["increment","increment","decrement","reset","reset"]
 // Output: [1,2,1,0,0]
-Explanation:
+// Explanation:
 
 
 var createCounter = function(init) {
